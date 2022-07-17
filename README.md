@@ -1,6 +1,6 @@
-### Hi there 👋
 ### Hi there 👋, My Name is Shopi Nurhidayanti
 #### Data Analyst and Data Scientist Enthusiast
+
 I made this project just for fun.
 
 
