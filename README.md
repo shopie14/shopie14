@@ -1,5 +1,6 @@
 ### Hi there 👋, My Name is Shopi Nurhidayanti
 #### Data Analyst and Data Scientist Enthusiast
+##### I'm from Indonesian
 
 I made this project just for fun.
 
