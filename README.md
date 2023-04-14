@@ -11,8 +11,6 @@ I made this project just for fun.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shopie14&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shopie14)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shopie14)  
 
 ![Profile views](https://gpvc.arturio.dev/shopie14)  
